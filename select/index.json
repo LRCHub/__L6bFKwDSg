@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "NEW DAY",
+  "base_artist": "G-k.i.d",
+  "createdAt": "2025-12-06T12:09:35.706013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "G.R.I.N.D. (Get Ready It's A New Day)",
+      "artist": "Asher Roth",
+      "has_synced": true,
+      "path": "select/01_G.R.I.N.D._(Get_Ready_It's_A_New_Day)_Asher_Roth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Della Reese",
+      "has_synced": false,
+      "path": "select/02_Brand_New_Day_Della_Reese.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Day",
+      "artist": "Patti LaBelle",
+      "has_synced": true,
+      "path": "select/03_New_Day_Patti_LaBelle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Promise Of A New Day",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/04_The_Promise_Of_A_New_Day_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Day",
+      "artist": "Alison Wonderland",
+      "has_synced": true,
+      "path": "select/05_New_Day_Alison_Wonderland.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "New Day (Graham Massey Mix)",
+      "artist": "Kate Havnevik",
+      "has_synced": true,
+      "path": "select/06_New_Day_(Graham_Massey_Mix)_Kate_Havnevik.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New Day Outro Mix (Grenda Remix)",
+      "artist": "Kate Havnevik feat. Grenda",
+      "has_synced": true,
+      "path": "select/07_New_Day_Outro_Mix_(Grenda_Remix)_Kate_Havnevik_feat._Grenda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "New Day",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/08_New_Day_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New Day",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/09_New_Day_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Dizzee Rascal",
+      "has_synced": true,
+      "path": "select/10_Brand_New_Day_Dizzee_Rascal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "上原ひろみ",
+      "has_synced": false,
+      "path": "select/11_Brand_New_Day_上原ひろみ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Hiromi (The Trio Project)",
+      "has_synced": false,
+      "path": "select/12_Brand_New_Day_Hiromi_(The_Trio_Project).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brand New Day",
+      "artist": "Neil Patrick Harris",
+      "has_synced": true,
+      "path": "select/13_Brand_New_Day_Neil_Patrick_Harris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEW DAY",
+      "artist": "G-k.i.d",
+      "has_synced": false,
+      "path": "select/pl_01_NEW_DAY_G-k.i.d.txt"
+    }
+  ]
+}
